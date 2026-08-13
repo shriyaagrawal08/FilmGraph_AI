@@ -3,7 +3,7 @@
 Think of the repository as a movie production pipeline: data comes in → gets cleaned → becomes knowledge → gets stored → retrieved → an LLM generates an answer → we evaluate whether the answer was actually good.
 
 
-# to activate the Virtual Environment - 
+# To activate the Virtual Environment - 
 
 uv venv
 
